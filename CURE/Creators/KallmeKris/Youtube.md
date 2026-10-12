@@ -2,8 +2,7 @@
 | Link                                                                             | TS                   |
 | -------------------------------------------------------------------------------- | -------------------- |
 | https://www.youtube.com/watch?v=pNVh3PUvis0                                      | 11:57                |
-| https://www.youtube.com/watch?v=91mruJIDYM0                                      | 9:38                 |
-| https://www.youtube.com/watch?v=91mruJIDYM0                                      | 2:57                 |
+| https://www.youtube.com/watch?v=91mruJIDYM0                                      | 2:57, 9:38           |
 | https://youtu.be/pDvXf7zkqlY                                                     | 12:00, 14:43         |
 | https://www.youtube.com/watch?v=zm_S2dxo2Zk                                      | 5:26                 |
 | https://youtu.be/wbVybp26poM                                                     | 11:56                |
@@ -27,7 +26,6 @@
 | https://youtu.be/i47pGFaDfyA                                                     | 19:31                |
 | https://youtu.be/Gj16Q0k8N4k                                                     | 12:15                |
 | https://www.youtube.com/watch?si=gqtEmrmQ02PsVsgD&v=SC0hFvrpxoE&feature=youtu.be | 15:41                |
-| https://www.youtube.com/watch?si=pFx_cGyilLjG6dTa&v=Gj16Q0k8N4k&feature=youtu.be | 12:15 (x2)           |
 | https://www.youtube.com/watch?si=d1bpKom-Nsw1Jmpi&v=NIxaUrMSFOs&feature=youtu.be | 30:57                |
 | https://www.youtube.com/watch?v=TT2KMgfmI3A&lc=UgwtoAJ1_Sa8OSH0jW94AaABAg        | 26:09                |
 | https://www.youtube.com/watch?si=NkOhIUdTYR8No74l&v=3LNx020nzto&feature=youtu.be | 7:32                 |
