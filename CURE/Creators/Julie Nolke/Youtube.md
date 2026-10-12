@@ -1,4 +1,9 @@
 
+## Compilation
+
+- https://www.youtube.com/watch?v=u289WpONIGU
+- https://www.youtube.com/watch?v=NA3dYtK0zc0
+
 | Link                                                         | TS                   |
 | ------------------------------------------------------------ | -------------------- |
 | https://www.youtube.com/watch?v=BTlaavRdOlM                  | 4:41, 5:49, 5:51     |
