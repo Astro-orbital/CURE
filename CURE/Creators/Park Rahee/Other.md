@@ -1,11 +1,8 @@
-
 ## Compilation
 
 - https://1drv.ms/u/s!AuS3MlgaUQoHgfhtLfGnOmih04uaVQ
-- https://drive.google.com/file/d/1MO7rIuyRDcvMX0oriA3yjfW-kFtxIdES/view
 - https://mega.nz/file/O9N1WJjT
 - https://mega.nz/file/u4tjwJwR
-- https://drive.google.com/drive/folders/14Mt8GTb_lVXnKxpCM8UozIFreL8NrSru
 
 | Link                                                         | TS                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,3 +13,7 @@
 | http://vod.afreecatv.com/PLAYER/STATION/63570848/140043      |                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | http://bj.afreecatv.com/rmrm1313                             |                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | https://fantrie.com/rmrm1813                                 |                                                                                                                                                                                                                                                                                                                                                                                                                        |
+## Retired
+
+- https://drive.google.com/file/d/1MO7rIuyRDcvMX0oriA3yjfW-kFtxIdES/view (gone)
+- https://drive.google.com/drive/folders/14Mt8GTb_lVXnKxpCM8UozIFreL8NrSru (gone)

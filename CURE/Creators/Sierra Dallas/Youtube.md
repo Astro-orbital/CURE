@@ -1,6 +1,3 @@
-## Compilation
+## Retired
 
-- https://www.youtube.com/watch?v=rQVexp8jlQE
-
-| Link                                                         | TS                   |
-| ------------------------------------------------------------ | -------------------- |
+- https://www.youtube.com/watch?v=rQVexp8jlQE (gone)

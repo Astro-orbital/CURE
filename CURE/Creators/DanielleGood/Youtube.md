@@ -1,5 +1,6 @@
+## Retired
 
-| Link                                                         | TS                   |
-| ------------------------------------------------------------ | -------------------- |
-| https://www.youtube.com/watch?v=nQIRVdtbdBA                  |                      |
-| https://www.youtube.com/watch?v=pxsX1mlI5Fo                  |                      |
+| Link                                                         | TS                   | Reason   |
+| ------------------------------------------------------------ | -------------------- | -------- |
+| https://www.youtube.com/watch?v=nQIRVdtbdBA                  |                      | (dead)   |
+| https://www.youtube.com/watch?v=pxsX1mlI5Fo                  |                      | (dead)   |

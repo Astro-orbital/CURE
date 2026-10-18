@@ -1,5 +1,5 @@
 ---
 aliases: []
-tags: []
+tags: [Asian]
 ---
 [[Creators/Alinity/Youtube|Youtube]]

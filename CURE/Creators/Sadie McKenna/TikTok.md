@@ -1,5 +1,6 @@
+## Retired
 
-| Link                                                         | TS                   |
-| ------------------------------------------------------------ | -------------------- |
-| https://tiktok.com/t/ZP81UVRFa/                              |                      |
-| https://tiktok.com/t/ZP81UXv4c/                              |                      |
+| Link                                                         | TS                   | Reason   |
+| ------------------------------------------------------------ | -------------------- | -------- |
+| https://tiktok.com/t/ZP81UVRFa/                              |                      | (dead)   |
+| https://tiktok.com/t/ZP81UXv4c/                              |                      | (dead)   |

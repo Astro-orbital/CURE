@@ -1,7 +1,5 @@
-
 ## Compilation
 
-- https://www.youtube.com/watch?v=u289WpONIGU
 - https://www.youtube.com/watch?v=NA3dYtK0zc0
 
 | Link                                                         | TS                   |
@@ -12,3 +10,6 @@
 | https://www.youtube.com/watch?v=ckrSHeQtdkI                  | 4:27                 |
 | https://www.youtube.com/watch?v=lPPNAovCwXA                  | 2:24                 |
 | https://www.youtube.com/watch?v=1z6_WWBufDk                  | 1:41                 |
+## Retired
+
+- https://www.youtube.com/watch?v=u289WpONIGU (gone)
