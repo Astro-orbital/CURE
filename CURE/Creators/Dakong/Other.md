@@ -1,4 +1,5 @@
+## Retired
 
-| Link                                                               | TS                   |
-| ------------------------------------------------------------------ | -------------------- |
-| https://livegameclips.com/twitch/dakong_/ThankfulSaltyToothOneHand |                      |
+| Link                                                               | TS                   | Reason   |
+| ------------------------------------------------------------------ | -------------------- | -------- |
+| https://livegameclips.com/twitch/dakong_/ThankfulSaltyToothOneHand |                      | (dead)   |
